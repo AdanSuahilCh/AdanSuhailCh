@@ -35,17 +35,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdanSuhailCh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adansuhailch&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanSuhailCh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adansuhailch&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AdanSuhailCh&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=adansuhailch&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AdanSuhailCh&theme=tokyonight&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=adansuhailch&theme=tokyonight&row=1)
 
 ---
 
