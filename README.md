@@ -46,6 +46,7 @@
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adansuhailch&theme=tokyonight&row=1)
+![Trophies](https://github-readme-stats.vercel.app/api?username=adansuhailch&show_icons=true)
 
 ---
 
